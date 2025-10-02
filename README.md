@@ -7,7 +7,7 @@ This repo was inspired by [bwdesigngroup/ignition-docker](https://github.com/des
 
 ### Environmental Options
 
-this container can be used by pulling `huntermatuse/dev8:latest` which at the time of writing uses Ignition `8.3.0`
+this container can be used by pulling `huntermatusegpa/dev8:latest` which at the time of writing uses Ignition `8.3.0`
 
 there are four symlink options:
 
