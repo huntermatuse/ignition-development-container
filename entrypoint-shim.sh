@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-# shellcheck source=/usr/local/bin/script-utils.sh
 # shellcheck disable=SC1091
 source /usr/local/bin/script-utils.sh
 
