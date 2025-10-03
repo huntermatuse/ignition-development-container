@@ -72,9 +72,7 @@ x-default-logging: &default-logging
 services:
   core-gateway:
     <<: [ *default-logging ]
-    build:
-      context: ./ignition-docker
-    image: my-ignition:local
+    image: huntermatusegpa/dev8:latest
     ports:
       - 19080:8088
       - 19088:8043
